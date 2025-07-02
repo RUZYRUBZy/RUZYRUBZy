@@ -13,7 +13,7 @@
 
 ---
 
-###  **📬 Contact Me**
+###  **📬 Say Hi !**
 <a href="https://discord.com/users/ruzyrubzy" target="_blank">
   <img src="https://img.shields.io/badge/Discord-ruzyrubzy-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
 </a>
